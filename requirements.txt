@@ -1,6 +1,6 @@
 # tensorflow and horovod should be presented in a base docker image or installed manually (see requirements-local.txt)
 flask==1.0.2
-numpy==1.16.0
+numpy==1.22.0
 pandas==0.23.4
 unicodecsv==0.14.1
 requests==2.21.0
